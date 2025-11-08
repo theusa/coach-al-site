@@ -1,6 +1,6 @@
 export default function Page() {
   const site = {
-    brand: "Coach Al — Austin Personal Training",
+    brand: "Coach Al | Austin Personal Training",
     locationTag: "Austin • In-person & online",
     hero: {
       headlineTop: "Stronger. Looser. Pain-free.",
